@@ -1,6 +1,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-`LinkedList` is a library of Java data structure and algorithms source code files that I am building as I learn at my university. These are here as a reference for anyone interested.
+`javaDSA` is a library of Java data structure and algorithms source code files that I built as references during a previous course. These are here as a continuing reference for myself and anyone else who stumbles across!
 
 
 ### Doubly Linked List
